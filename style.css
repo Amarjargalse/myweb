@@ -103,7 +103,7 @@ main{
 nav {
   display: flex;
   margin-right: 50px;
-  transition: all 0.2s ease-in;
+  transition: all 0.3s ease-in;
 }
 
 #navi:hover
@@ -190,7 +190,7 @@ hr{
   border: 2px solid #3f5df4;
   width: 150px;
   border-radius: 20px;
-  transition: all 0.2s ease-in;
+  transition: all 0.3s ease-in;
 }
 
 .contact-buttons:hover
@@ -384,7 +384,7 @@ h2
   color: black;
   border-radius: 20px;
   text-align: center;
-  transition: all 0.2s ease-in;
+  transition: all 0.3s ease-in;
 }
 
 .visit:hover
@@ -436,7 +436,7 @@ h2
 {
   margin: 15px;
   margin-bottom: 35px;
-  transition: all 0.2s ease-in;
+  transition: all 3s ease-in;
 }
 
 #mail:hover
@@ -448,7 +448,7 @@ h2
 #icons, #icons1, #icons2, #icons3
 {
   border-radius: 50%;
-  transition: all 0.2s ease-in;
+  transition: all 0.3s ease-in;
 }
 
 #icons:hover
